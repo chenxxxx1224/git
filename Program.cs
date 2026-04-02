@@ -20,7 +20,7 @@ namespace git
 
             Console.WriteLine("输出4");
 
-            Console.WriteLine("输出5");
+            Console.WriteLine("输出6");
         }
     }
 }
