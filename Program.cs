@@ -16,6 +16,8 @@ namespace git
             Console.WriteLine("输出2");
 
             Console.WriteLine("输出3");
+
+            Console.WriteLine("1111");
         }
     }
 }
