@@ -10,6 +10,10 @@ namespace git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("输出1");
+
+
+            Console.WriteLine("输出2");
         }
     }
 }
